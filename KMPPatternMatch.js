@@ -1,3 +1,6 @@
+com = com || {}
+com.pc = com.pc || {}
+
 /**
  *  @author         Parveen.Chahal
  *  @category       Business Logic.
